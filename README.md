@@ -18,5 +18,6 @@
 ## How to install and run project
 - Clone the repository
 - execute <code>npm install</code>
+- Update file "utilities/firebaseConfig.js" with youre firebase application configs
 - execute <code>npm run dev</code>
 - enjoy project
